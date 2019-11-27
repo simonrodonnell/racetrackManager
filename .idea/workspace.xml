@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="964d2006-7605-4c7a-b03a-4991a7afcbd2" name="Default Changelist" comment="" />
+    <list default="true" id="964d2006-7605-4c7a-b03a-4991a7afcbd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/FormulaOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/Tyres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/people/Mechanic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FormulaOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MechanicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/F1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/people/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/people/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DriverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DriverTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,9 +24,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,7 +40,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1UCUe9TBnSJyilw2ebgUfJHB22x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -43,6 +62,62 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.All in CodeClanCars">
+    <configuration name="All in CodeClanCars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanCars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanCars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DriverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormulaOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanCars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FormulaOneTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormulaOneTest.canChangeTyres" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanCars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FormulaOneTest" />
+      <option name="METHOD_NAME" value="canChangeTyres" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MechanicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanCars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MechanicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in CodeClanCars" />
+        <item itemvalue="JUnit.FormulaOneTest.canChangeTyres" />
+        <item itemvalue="JUnit.FormulaOneTest" />
+        <item itemvalue="JUnit.MechanicTest" />
+        <item itemvalue="JUnit.DriverTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -55,5 +130,16 @@
       <updated>1574860163314</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -11,6 +11,10 @@ public class Driver extends People {
         this.car = car;
     }
 
+    public Car getCar(){
+        return this.car;
+    }
+
     public void setCar(Car newCar){
         this.car = newCar;
     }

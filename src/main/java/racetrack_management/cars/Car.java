@@ -63,4 +63,8 @@ public abstract class Car {
     public void refuel(){
         this.fuel = 100;
     }
+
+    public void setNeedsRepair(Boolean newState){
+        this.needsRepair = newState;
+    }
 }
