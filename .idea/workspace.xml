@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="964d2006-7605-4c7a-b03a-4991a7afcbd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/SafetyCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SafetyCarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/IDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/race/Race.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/FormulaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/FormulaOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/SafetyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/SafetyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FormulaOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FormulaOneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/racetrack_management/cars/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/racetrack_management/cars/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/racetrack_management/cars/FormulaOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/racetrack_management/cars/FormulaOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/racetrack_management/cars/SafetyCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/racetrack_management/cars/SafetyCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FormulaOneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FormulaOneTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -34,6 +43,9 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -62,15 +74,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeClanCars" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DriverTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FormulaOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeClanCars" />
       <option name="PACKAGE_NAME" value="" />
@@ -90,11 +93,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MechanicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FormulaOneTest.canReduceFuel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeClanCars" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MechanicTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="FormulaOneTest" />
+      <option name="METHOD_NAME" value="canReduceFuel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormulaOneTest.canReduceTyreIntegrity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanCars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FormulaOneTest" />
+      <option name="METHOD_NAME" value="canReduceTyreIntegrity" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,10 +116,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in CodeClanCars" />
+        <item itemvalue="JUnit.FormulaOneTest.canReduceTyreIntegrity" />
+        <item itemvalue="JUnit.FormulaOneTest.canReduceFuel" />
         <item itemvalue="JUnit.FormulaOneTest.canChangeTyres" />
         <item itemvalue="JUnit.FormulaOneTest" />
-        <item itemvalue="JUnit.MechanicTest" />
-        <item itemvalue="JUnit.DriverTest" />
       </list>
     </recent_temporary>
   </component>

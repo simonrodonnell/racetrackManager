@@ -59,4 +59,16 @@ public class FormulaOneTest {
         formulaOne.changeTyres(Tyres.WET);
         assertEquals(Tyres.WET, formulaOne.getTyres());
     }
+
+    @Test
+    public void canReduceFuel(){
+        formulaOne.reduceFuel(145);
+        assertEquals(80, formulaOne.getFuel());
+    }
+
+    @Test
+    public void canReduceTyreIntegrity(){
+        formulaOne.tyreDegredation(135);
+        assertEquals(75,formulaOne.getTyreIntegrity());
+    }
 }
