@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="964d2006-7605-4c7a-b03a-4991a7afcbd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/FormulaOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/Tyres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/people/Mechanic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FormulaOneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MechanicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/SafetyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SafetyCarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/F1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/people/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/people/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DriverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DriverTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
