@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="964d2006-7605-4c7a-b03a-4991a7afcbd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/IDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/race/Race.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/FormulaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/FormulaOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/IDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/behaviours/IDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/SafetyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/racetrack_management/cars/SafetyCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FormulaOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FormulaOneTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/racetrack_management/cars/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/racetrack_management/cars/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/racetrack_management/cars/FormulaOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/racetrack_management/cars/FormulaOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/racetrack_management/cars/SafetyCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/racetrack_management/cars/SafetyCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FormulaOneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FormulaOneTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
