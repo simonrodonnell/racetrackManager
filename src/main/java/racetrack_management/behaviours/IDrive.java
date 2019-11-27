@@ -1,4 +1,4 @@
-package racetrack_management.cars;
+package racetrack_management.behaviours;
 
 public interface IDrive {
 

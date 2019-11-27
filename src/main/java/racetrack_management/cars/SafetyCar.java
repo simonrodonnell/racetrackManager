@@ -1,5 +1,7 @@
 package racetrack_management.cars;
 
+import racetrack_management.behaviours.IDrive;
+
 public class SafetyCar extends Car implements IDrive {
 
     public SafetyCar(String type, String model, int engineSize, int capacity) {
